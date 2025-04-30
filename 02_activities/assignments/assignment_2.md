@@ -9,8 +9,7 @@
     - You can find data visualizations at https://public.tableau.com/app/discover or https://datavizproject.com/, or anywhere else you like! 
 - For each visualization (good and bad):  
     - Explain (with reference to material covered up to date, along with readings and other scholarly sources, as needed) why you classified that visualization the way you did.
-      ```
-
+    
     Reference: Visualization - 01_course_intro
 
      1) example of a bad data visualization
@@ -42,11 +41,9 @@
 
     Perceptual: The message is very clear that colleges with lower graduation rates tend to serve more Pell Grant (low-income) studens. The public school chart shows that students in lower graduation rate schools are more likely to be low-income.
 
-      ```
     - How could this data visualization have been improved?  
-      ```
-      1) example of a bad data visualization
 
+      1) example of a bad data visualization
      Bar chart: French fry consumption by month in 2010 
      Source: https://www.flickr.com/photos/laurenmanning/5658951917/
 
@@ -57,8 +54,6 @@
      a) substantive: numerical values on top of the bar could be added to show comparisons between bars. 
      b) y axis label
 
-      
-      ```
 - Word count should not exceed (as a maximum) 500 words for each visualization (i.e. 
 300 words for your good example and 500 for your bad example)
 
