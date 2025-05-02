@@ -9,27 +9,51 @@
     - You can find data visualizations at https://public.tableau.com/app/discover or https://datavizproject.com/, or anywhere else you like! 
 - For each visualization (good and bad):  
     - Explain (with reference to material covered up to date, along with readings and other scholarly sources, as needed) why you classified that visualization the way you did.
-      ```
-      Your answer...
+    
+    Reference: Visualization - 01_course_intro
 
+     1) example of a bad data visualization
 
+     Bar graph: French fry consumption by month in 2010 
+     Source: https://www.flickr.com/photos/laurenmanning/5658951917/
 
+     https://datavizproject.com/data-type/bar-chart/
 
+     Reasons for why this is a form of bad visualization:
 
+    Aesthetic: The visualization is clever in using french fries to send a clear message on the food and sets an emotional response to the image. It is asethetically  pleasing.
 
+    Substantive: While the bar graph is visually pleasing, it is not substantive in accurately presenting the data. There is no y-axis label which mean the audience has to assume that it measures 'number of servings'. The fries also differ in thickness and shapes which doesn't provide an accurate representation of the trend over time. 
 
-      ```
+    Preceptual: The core message seems to be clear because longer fries represents the trend of consuming more fries over time. 
+
+    2) example of a good data visualization
+
+    Bar graph: "Taking a chance: Colleges with the lowest graduation raters also teach the poorest"
+
+    Source: https://www.nytimes.com/2016/06/02/upshot/why-college-students-drop-out-follow-the-dollars.html?ribbon-ad-idx=9&rref=upshot&module=Ribbon&version=origin&region=Header&action=click&contentCollection=The%20Upshot&pgtype=article
+    
+    https://datavizproject.com/data-type/stacked-bar-chart/
+
+    Asthetic: The layout is clear, visually appealing in representing the percentage of Pell Grant recipients. It shows a clear division between public and private schools
+
+    Substantive: The graph clearly shows the distribution of students across graduation rates in relation to the percentage of Pell Grant recipients. The scale is weighted bt number of students and color-coded to represent socioeconomic layering.
+
+    Perceptual: The message is very clear that colleges with lower graduation rates tend to serve more Pell Grant (low-income) studens. The public school chart shows that students in lower graduation rate schools are more likely to be low-income.
+
     - How could this data visualization have been improved?  
-      ```
-      Your answer...
 
+      1) example of a bad data visualization
+     Bar chart: French fry consumption by month in 2010 
+     Source: https://www.flickr.com/photos/laurenmanning/5658951917/
 
+     https://datavizproject.com/data-type/bar-chart/
 
+     How can this bar graph be improved:
 
+     a) substantive: numerical values on top of the bar could be added to show comparisons between bars. 
+     b) y axis label
 
-
-      
-      ```
 - Word count should not exceed (as a maximum) 500 words for each visualization (i.e. 
 300 words for your good example and 500 for your bad example)
 
