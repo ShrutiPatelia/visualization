@@ -8,22 +8,40 @@
 - Using Python and one other data visualization software (Excel or free alternative, Tableau Public, any other tool you prefer), create two distinct visualizations from your dataset of choice.  
 - For each visualization, describe and justify: 
     > What software did you use to create your data visualization?
+    
+    Python VSC and Excel
 
     > Who is your intended audience? 
     
+    The intended audience are urban planners and municipal policy makers. 
+
     > What information or message are you trying to convey with your visualization? 
+    
+    This visualization is intented to show the trend in the number of pool enclosure permits issued by year. It highlights the peeks and dips that could be influenced by policy changes and other factors.
     
     > What aspects of design did you consider when making your visualization? How did you apply them? With what elements of your plots? 
     
+    I chose a line chart to display the changes over time. The color green was selected to envoke associations with safety and residential landscaping. I added markers to each data point to improve readability. I added appropriate labels to clearly convey the message.
+    
     > How did you ensure that your data visualizations are reproducible? If the tool you used to make your data visualization is not reproducible, how will this impact your data visualization? 
+
+     The python code incldes a clear step-by-step process
     
     > How did you ensure that your data visualization is accessible?  
     
+    The dataset is open access so anyone can recreate the same visualization. 
+
     > Who are the individuals and communities who might be impacted by your visualization?  
     
+    Local residents could use the visualization to understand trends in their neighbourhood.
+
     > How did you choose which features of your chosen dataset to include or exclude from your visualization? 
+
+    The primary feature was 'ISSUE_DATE' which was converted to 'YEAR' to focus on annual trends.
     
     > What ‘underwater labour’ contributed to your final data visualization product?
+
+    The 'ISSUE_DATE' was cleaned dure to inconsistent formatting, removing null values and outliers.
 
 - This assignment is intentionally open-ended - you are free to create static or dynamic data visualizations, maps, or whatever form of data visualization you think best communicates your information to your audience of choice! 
 - Total word count should not exceed **(as a maximum) 1000 words** 
