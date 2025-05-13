@@ -7,24 +7,28 @@
 - Choose a dataset of interest from the [City of Toronto’s Open Data Portal](https://www.toronto.ca/city-government/data-research-maps/open-data/) or [Ontario’s Open Data Catalogue](https://data.ontario.ca/). 
 - Using Python and one other data visualization software (Excel or free alternative, Tableau Public, any other tool you prefer), create two distinct visualizations from your dataset of choice.  
 - For each visualization, describe and justify: 
-    > What software did you use to create your data visualization?Python VSC
+    > What software did you use to create your data visualization?
+    Python VSC
 
     > Who is your intended audience? 
+    
     The intended audience are urban planners and municipal policy makers. 
 
     > What information or message are you trying to convey with your visualization? 
-
+    
     This visualization is intented to show the trend in the number of pool enclosure permits issued by year. It highlights the peeks and dips that could be influenced by policy changes and other factors.
     
     > What aspects of design did you consider when making your visualization? How did you apply them? With what elements of your plots? 
-
+    
     I chose a line chart to display the changes over time. The color green was selected to envoke associations with safety and residential landscaping. I added markers to each data point to improve readability. I added appropriate labels to clearly convey the message.
     
     > How did you ensure that your data visualizations are reproducible? If the tool you used to make your data visualization is not reproducible, how will this impact your data visualization? 
+
+     The python code incldes a clear step-by-step process
     
     > How did you ensure that your data visualization is accessible?  
     
-    The python code incldes a clear step-by-step process and the dataset is open access so anyone can recreate the same visualization. 
+    The dataset is open access so anyone can recreate the same visualization. 
 
     > Who are the individuals and communities who might be impacted by your visualization?  
     
