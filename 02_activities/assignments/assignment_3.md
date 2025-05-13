@@ -10,6 +10,7 @@
     > What software did you use to create your data visualization?
     
     Python VSC
+    Excel
 
     > Who is your intended audience? 
     
