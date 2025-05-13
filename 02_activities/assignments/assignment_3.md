@@ -9,8 +9,7 @@
 - For each visualization, describe and justify: 
     > What software did you use to create your data visualization?
     
-    Python VSC
-    Excel
+    Python VSC and Excel
 
     > Who is your intended audience? 
     
